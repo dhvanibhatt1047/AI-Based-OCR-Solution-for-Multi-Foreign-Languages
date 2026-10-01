@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+lxml
+playwright
+python-dotenv
+chardet
+sentence-transformers
+opencc-python-reimplemented
+fastapi
+uvicorn
+python-multipart
+paddlepaddle
+paddleocr
+ollama

@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node / React
+transfusion-gui/node_modules/
+transfusion-gui/dist/
+
+# OCR output
+output/
+
+# Large files / models
+*.gguf
+*.safetensors
+checkpoints/
+qwen2.5-lora-adapter/
+qwen2.5-merged/
+
+# Env secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
